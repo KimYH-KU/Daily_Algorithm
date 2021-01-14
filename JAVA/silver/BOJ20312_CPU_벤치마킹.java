@@ -4,7 +4,7 @@ import java.util.*;
 public class BOJ20312_CPU_벤치마킹 {
 
 	/**
-	 * 2021.01.13
+	 * 2021.01.14
 	 * 
 	 * (A*B)에 대해서 mod 연산 시에는 ((A mod m) * (B mod m)) mod m 임에 유의하기.
 	 * 
