@@ -3,6 +3,13 @@ import java.util.*;
 
 public class BOJ16198_에너지_모으기 {
 
+	/**
+	 * 21.3.19
+	 * 
+	 * 재귀함수를 돌릴 때 하나를 뺀 처리하기가 애매한 경우, 저렇게 copy 배열을 만들어서 값을 넣어주는 방법도 있다.
+	 * 
+	 */
+	
 	static BufferedReader br;
 	static BufferedWriter bw;
 	static StringTokenizer st;
